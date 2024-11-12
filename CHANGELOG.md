@@ -5,3 +5,4 @@
 - 2024-11-04: Fix auth bug
 - 2024-11-08: Improve performance
 - 2024-11-08: Update dependencies
+- 2024-11-12: Setup CI
