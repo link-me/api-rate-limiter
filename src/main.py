@@ -3,3 +3,4 @@
 # Fix auth bug
 # Improve performance
 # Setup CI
+# Add tests
