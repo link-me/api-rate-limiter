@@ -4,3 +4,4 @@
 # Improve performance
 # Setup CI
 # Add tests
+# Enhance logging

@@ -7,3 +7,4 @@
 - 2024-11-08: Update dependencies
 - 2024-11-12: Setup CI
 - 2024-11-15: Add tests
+- 2024-11-24: Enhance logging
