@@ -9,3 +9,4 @@
 - 2024-11-15: Add tests
 - 2024-11-24: Enhance logging
 - 2024-12-03: Add feature
+- 2024-12-06: Improve performance
