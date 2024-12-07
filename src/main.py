@@ -6,3 +6,4 @@
 # Add tests
 # Enhance logging
 # Add feature
+# Refactor module
