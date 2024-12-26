@@ -11,3 +11,4 @@
 - 2024-12-03: Add feature
 - 2024-12-06: Improve performance
 - 2024-12-07: Refactor module
+- 2024-12-26: Refactor module
