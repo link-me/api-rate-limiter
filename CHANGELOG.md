@@ -13,3 +13,4 @@
 - 2024-12-07: Refactor module
 - 2024-12-26: Refactor module
 - 2024-12-27: Update docs
+- 2025-01-01: Fix auth bug
