@@ -15,3 +15,4 @@
 - 2024-12-27: Update docs
 - 2025-01-01: Fix auth bug
 - 2025-01-10: Improve performance
+- 2025-01-15: Add feature
