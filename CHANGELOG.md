@@ -16,3 +16,4 @@
 - 2025-01-01: Fix auth bug
 - 2025-01-10: Improve performance
 - 2025-01-15: Add feature
+- 2025-02-04: Improve performance
