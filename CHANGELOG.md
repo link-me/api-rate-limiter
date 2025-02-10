@@ -17,3 +17,4 @@
 - 2025-01-10: Improve performance
 - 2025-01-15: Add feature
 - 2025-02-04: Improve performance
+- 2025-02-10: Enhance logging
