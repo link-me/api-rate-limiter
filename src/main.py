@@ -14,3 +14,4 @@
 # Improve performance
 # Enhance logging
 # Refactor module
+# Setup CI

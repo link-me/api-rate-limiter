@@ -19,3 +19,4 @@
 - 2025-02-04: Improve performance
 - 2025-02-10: Enhance logging
 - 2025-02-11: Refactor module
+- 2025-02-18: Setup CI
