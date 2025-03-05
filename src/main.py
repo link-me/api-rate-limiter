@@ -15,3 +15,4 @@
 # Enhance logging
 # Refactor module
 # Setup CI
+# Code cleanup
