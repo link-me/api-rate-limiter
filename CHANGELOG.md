@@ -26,3 +26,4 @@
 - 2025-03-20: Code cleanup
 - 2025-03-25: Setup CI
 - 2025-04-02: Update docs
+- 2025-04-13: Fix auth bug
