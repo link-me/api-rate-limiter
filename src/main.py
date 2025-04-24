@@ -19,3 +19,4 @@
 # Code cleanup
 # Setup CI
 # Update docs
+# Refactor module
