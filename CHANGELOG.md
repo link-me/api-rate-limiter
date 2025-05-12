@@ -31,3 +31,4 @@
 - 2025-04-18: Update docs
 - 2025-04-19: Improve performance
 - 2025-04-24: Refactor module
+- 2025-05-12: Fix auth bug

@@ -20,3 +20,4 @@
 # Setup CI
 # Update docs
 # Refactor module
+# Fix auth bug
