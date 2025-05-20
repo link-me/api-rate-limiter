@@ -32,3 +32,4 @@
 - 2025-04-19: Improve performance
 - 2025-04-24: Refactor module
 - 2025-05-12: Fix auth bug
+- 2025-05-20: Enhance logging
