@@ -34,3 +34,4 @@
 - 2025-05-12: Fix auth bug
 - 2025-05-20: Enhance logging
 - 2025-05-28: Setup CI
+- 2025-06-07: Update docs
