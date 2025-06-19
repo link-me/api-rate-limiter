@@ -36,3 +36,4 @@
 - 2025-05-28: Setup CI
 - 2025-06-07: Update docs
 - 2025-06-12: Code cleanup
+- 2025-06-19: Update dependencies

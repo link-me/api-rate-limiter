@@ -21,3 +21,4 @@
 # Update docs
 # Refactor module
 # Fix auth bug
+# Update dependencies
