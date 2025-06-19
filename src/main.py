@@ -22,3 +22,4 @@
 # Refactor module
 # Fix auth bug
 # Update dependencies
+# Improve performance
