@@ -38,3 +38,4 @@
 - 2025-06-12: Code cleanup
 - 2025-06-19: Update dependencies
 - 2025-06-19: Improve performance
+- 2025-06-24: Add feature
