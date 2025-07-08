@@ -40,3 +40,4 @@
 - 2025-06-19: Improve performance
 - 2025-06-24: Add feature
 - 2025-07-02: Fix auth bug
+- 2025-07-08: Code cleanup
