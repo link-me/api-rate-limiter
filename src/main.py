@@ -24,3 +24,4 @@
 # Update dependencies
 # Improve performance
 # Fix auth bug
+# Setup CI
