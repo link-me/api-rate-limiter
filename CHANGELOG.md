@@ -42,3 +42,4 @@
 - 2025-07-02: Fix auth bug
 - 2025-07-08: Code cleanup
 - 2025-07-15: Setup CI
+- 2025-07-16: Add feature
