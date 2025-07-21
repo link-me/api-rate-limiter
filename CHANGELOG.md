@@ -43,3 +43,4 @@
 - 2025-07-08: Code cleanup
 - 2025-07-15: Setup CI
 - 2025-07-16: Add feature
+- 2025-07-21: Improve performance
