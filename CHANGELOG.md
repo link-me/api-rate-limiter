@@ -45,3 +45,4 @@
 - 2025-07-16: Add feature
 - 2025-07-21: Improve performance
 - 2025-07-31: Setup CI
+- 2025-08-06: Enhance logging
