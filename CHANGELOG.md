@@ -46,3 +46,4 @@
 - 2025-07-21: Improve performance
 - 2025-07-31: Setup CI
 - 2025-08-06: Enhance logging
+- 2025-08-08: Fix auth bug
