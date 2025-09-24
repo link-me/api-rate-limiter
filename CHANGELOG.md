@@ -54,3 +54,4 @@
 - 2025-09-15: Add feature
 - 2025-09-20: Enhance logging
 - 2025-09-21: Setup CI
+- 2025-09-24: Update docs
