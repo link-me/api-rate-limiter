@@ -55,3 +55,4 @@
 - 2025-09-20: Enhance logging
 - 2025-09-21: Setup CI
 - 2025-09-24: Update docs
+- 2025-09-28: Fix auth bug

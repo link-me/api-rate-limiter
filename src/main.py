@@ -34,3 +34,4 @@
 # Refactor module
 # Setup CI
 # Update docs
+# Fix auth bug
