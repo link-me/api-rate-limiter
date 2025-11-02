@@ -1,5 +1,5 @@
 import time
-from typing import Optional
+from typing import Optional, Callable
 
 from fastapi import Request, HTTPException
 
@@ -59,11 +59,14 @@ def rate_limiter(
     limit: int,
     window_seconds: int,
     namespace: str = "default",
-    backend: Optional[object] = None,
+    backend_provider: Optional[Callable[[], object]] = None,
 ):
     async def dependency(request: Request):
         ident = get_client_identifier(request)
         key = f"{namespace}:{ident}"
+        if backend_provider is None:
+            raise HTTPException(status_code=500, detail="Rate limiter backend not configured")
+        backend = backend_provider()
         ok = await backend.check(key, limit, window_seconds)  # type: ignore
         if not ok:
             raise HTTPException(

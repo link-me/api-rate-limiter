@@ -47,20 +47,20 @@ async def ping():
 
 @app.get("/data")
 async def data(
-    _=Depends(lambda: rate_limiter(10, 60, namespace="data", backend=backend_dep())),
+    _=Depends(rate_limiter(10, 60, namespace="data", backend_provider=backend_dep)),
 ):
     return {"message": "Here is your data", "items": [1, 2, 3]}
 
 
 @app.post("/login")
 async def login(
-    _=Depends(lambda: rate_limiter(5, 60, namespace="login", backend=backend_dep())),
+    _=Depends(rate_limiter(5, 60, namespace="login", backend_provider=backend_dep)),
 ):
     return {"status": "logged_in"}
 
 
 @app.get("/limited")
 async def limited_any(
-    _=Depends(lambda: rate_limiter(3, 10, namespace="any", backend=backend_dep())),
+    _=Depends(rate_limiter(3, 10, namespace="any", backend_provider=backend_dep)),
 ):
     return {"status": "allowed"}
