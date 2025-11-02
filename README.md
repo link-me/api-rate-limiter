@@ -36,5 +36,8 @@ Production Notes
 - For smoother throttling, you can evolve to sliding window or token bucket.
 - Consider per-user identifiers via `X-RateLimit-Id` to avoid IP-based collisions.
 
+Roadmap
+- См. `ROADMAP.md` для плана развития (стратегии лимитов, заголовки ответа, тесты/CI, наблюдаемость, квоты и интеграции).
+
 License
 - MIT
