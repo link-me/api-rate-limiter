@@ -41,3 +41,7 @@ Roadmap
 
 License
 - MIT
+
+Language
+- Roadmap: RU (`ROADMAP.md`) / EN (`ROADMAP.en.md`).
+- Private Usage: RU (`PRIVATE_USAGE.txt`) / EN (`PRIVATE_USAGE.en.txt`) — оба файла локальные и игнорируются Git.
